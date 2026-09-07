@@ -512,16 +512,6 @@ No confidential business information, credentials, passwords, API keys, or sensi
 
 ---
 
-# 💼 Resume Project Description
-
-**Online Sales Data Analysis Dashboard | Power BI, Power Query, DAX, Excel**
-
-* Developed an interactive **Power BI sales dashboard** to monitor Sales, Profit, Orders and Profit Margin across products, regions and time periods.
-* Cleaned and transformed raw transactional data using **Power Query** and implemented a **Star Schema data model** for analytical reporting.
-* Created **DAX measures and KPIs** to identify high-performing categories, regions and seasonal trends, generating actionable recommendations for marketing and inventory planning.
-
----
-
 # 📬 Contact
 
 ### **Tanveer Kakar**
